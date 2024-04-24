@@ -1,0 +1,7 @@
+.localdevserver
+.sf
+.sfdx
+.vscode
+coverage
+node_modules
+**/jsconfig.json
